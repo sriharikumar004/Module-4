@@ -20,5 +20,6 @@ except IndexError:
 ```
 ## Output
 <img width="382" height="185" alt="image" src="https://github.com/user-attachments/assets/25ca3bc8-bc71-400c-88f7-4808d5cc2fc3" />
+
 ## Result
 The program is executed successfully.
